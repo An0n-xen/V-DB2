@@ -1,0 +1,5 @@
+annoy
+openai
+python-dotenv
+matplotlib
+anthropic
